@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Services/AvatarService/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Services.AvatarService.dll.mdb
+/home/pi/opensim/bin/OpenSim.Services.AvatarService.dll
+/home/pi/opensim/OpenSim/Services/AvatarService/obj/Debug/OpenSim.Services.AvatarService.dll
+/home/pi/opensim/OpenSim/Services/AvatarService/obj/Debug/OpenSim.Services.AvatarService.dll.mdb

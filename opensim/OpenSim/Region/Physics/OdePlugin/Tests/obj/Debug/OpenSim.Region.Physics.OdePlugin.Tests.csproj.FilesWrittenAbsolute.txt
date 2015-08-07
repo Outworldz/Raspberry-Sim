@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/Physics/OdePlugin/Tests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Region.Physics.OdePlugin.Tests.dll.mdb
+/home/pi/opensim/bin/OpenSim.Region.Physics.OdePlugin.Tests.dll
+/home/pi/opensim/OpenSim/Region/Physics/OdePlugin/Tests/obj/Debug/OpenSim.Region.Physics.OdePlugin.Tests.dll
+/home/pi/opensim/OpenSim/Region/Physics/OdePlugin/Tests/obj/Debug/OpenSim.Region.Physics.OdePlugin.Tests.dll.mdb

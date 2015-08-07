@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Server/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/Robust.exe.mdb
+/home/pi/opensim/bin/Robust.exe
+/home/pi/opensim/OpenSim/Server/obj/Debug/Robust.exe
+/home/pi/opensim/OpenSim/Server/obj/Debug/Robust.exe.mdb

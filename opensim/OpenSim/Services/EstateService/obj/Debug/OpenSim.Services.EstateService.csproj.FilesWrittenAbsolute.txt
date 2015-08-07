@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Services/EstateService/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Services.EstateService.dll.mdb
+/home/pi/opensim/bin/OpenSim.Services.EstateService.dll
+/home/pi/opensim/OpenSim/Services/EstateService/obj/Debug/OpenSim.Services.EstateService.dll
+/home/pi/opensim/OpenSim/Services/EstateService/obj/Debug/OpenSim.Services.EstateService.dll.mdb

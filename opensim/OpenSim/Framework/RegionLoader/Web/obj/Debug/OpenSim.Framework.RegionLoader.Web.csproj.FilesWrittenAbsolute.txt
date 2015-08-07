@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Framework/RegionLoader/Web/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Framework.RegionLoader.Web.dll.mdb
+/home/pi/opensim/bin/OpenSim.Framework.RegionLoader.Web.dll
+/home/pi/opensim/OpenSim/Framework/RegionLoader/Web/obj/Debug/OpenSim.Framework.RegionLoader.Web.dll
+/home/pi/opensim/OpenSim/Framework/RegionLoader/Web/obj/Debug/OpenSim.Framework.RegionLoader.Web.dll.mdb

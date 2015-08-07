@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Services/Interfaces/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Services.Interfaces.dll.mdb
+/home/pi/opensim/bin/OpenSim.Services.Interfaces.dll
+/home/pi/opensim/OpenSim/Services/Interfaces/obj/Debug/OpenSim.Services.Interfaces.dll
+/home/pi/opensim/OpenSim/Services/Interfaces/obj/Debug/OpenSim.Services.Interfaces.dll.mdb

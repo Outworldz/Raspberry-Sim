@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Addons/OfflineIM/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Addons.OfflineIM.dll.mdb
+/home/pi/opensim/bin/OpenSim.Addons.OfflineIM.dll
+/home/pi/opensim/OpenSim/Addons/OfflineIM/obj/Debug/OpenSim.Addons.OfflineIM.dll
+/home/pi/opensim/OpenSim/Addons/OfflineIM/obj/Debug/OpenSim.Addons.OfflineIM.dll.mdb

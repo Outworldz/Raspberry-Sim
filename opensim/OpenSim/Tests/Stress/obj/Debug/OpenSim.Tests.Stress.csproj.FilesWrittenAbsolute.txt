@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Tests/Stress/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Tests.Stress.dll.mdb
+/home/pi/opensim/bin/OpenSim.Tests.Stress.dll
+/home/pi/opensim/OpenSim/Tests/Stress/obj/Debug/OpenSim.Tests.Stress.dll
+/home/pi/opensim/OpenSim/Tests/Stress/obj/Debug/OpenSim.Tests.Stress.dll.mdb

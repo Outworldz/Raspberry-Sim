@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Services/UserAccountService/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Services.UserAccountService.dll.mdb
+/home/pi/opensim/bin/OpenSim.Services.UserAccountService.dll
+/home/pi/opensim/OpenSim/Services/UserAccountService/obj/Debug/OpenSim.Services.UserAccountService.dll
+/home/pi/opensim/OpenSim/Services/UserAccountService/obj/Debug/OpenSim.Services.UserAccountService.dll.mdb

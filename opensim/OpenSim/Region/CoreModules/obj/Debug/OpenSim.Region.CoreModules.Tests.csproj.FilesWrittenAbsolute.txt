@@ -1,0 +1,6 @@
+/home/pi/opensim/OpenSim/Region/CoreModules/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/OpenSim/Region/CoreModules/obj/Debug/OpenSim.Region.CoreModules.Tests.World.Archiver.Tests.Resources.test-sound.wav
+/home/pi/opensim/bin/OpenSim.Region.CoreModules.Tests.dll.mdb
+/home/pi/opensim/bin/OpenSim.Region.CoreModules.Tests.dll
+/home/pi/opensim/OpenSim/Region/CoreModules/obj/Debug/OpenSim.Region.CoreModules.Tests.dll
+/home/pi/opensim/OpenSim/Region/CoreModules/obj/Debug/OpenSim.Region.CoreModules.Tests.dll.mdb

@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Services/PresenceService/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Services.PresenceService.dll.mdb
+/home/pi/opensim/bin/OpenSim.Services.PresenceService.dll
+/home/pi/opensim/OpenSim/Services/PresenceService/obj/Debug/OpenSim.Services.PresenceService.dll
+/home/pi/opensim/OpenSim/Services/PresenceService/obj/Debug/OpenSim.Services.PresenceService.dll.mdb

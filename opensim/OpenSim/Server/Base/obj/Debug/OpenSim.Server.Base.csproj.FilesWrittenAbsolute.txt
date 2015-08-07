@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Server/Base/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Server.Base.dll.mdb
+/home/pi/opensim/bin/OpenSim.Server.Base.dll
+/home/pi/opensim/OpenSim/Server/Base/obj/Debug/OpenSim.Server.Base.dll
+/home/pi/opensim/OpenSim/Server/Base/obj/Debug/OpenSim.Server.Base.dll.mdb

@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Tests/Clients/Assets/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Tests.Clients.AssetClient.exe.mdb
+/home/pi/opensim/bin/OpenSim.Tests.Clients.AssetClient.exe
+/home/pi/opensim/OpenSim/Tests/Clients/Assets/obj/Debug/OpenSim.Tests.Clients.AssetClient.exe
+/home/pi/opensim/OpenSim/Tests/Clients/Assets/obj/Debug/OpenSim.Tests.Clients.AssetClient.exe.mdb

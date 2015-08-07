@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Services/LLLoginService/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Services.LLLoginService.dll.mdb
+/home/pi/opensim/bin/OpenSim.Services.LLLoginService.dll
+/home/pi/opensim/OpenSim/Services/LLLoginService/obj/Debug/OpenSim.Services.LLLoginService.dll
+/home/pi/opensim/OpenSim/Services/LLLoginService/obj/Debug/OpenSim.Services.LLLoginService.dll.mdb

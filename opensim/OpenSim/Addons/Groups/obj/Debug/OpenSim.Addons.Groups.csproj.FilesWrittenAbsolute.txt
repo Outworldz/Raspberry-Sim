@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Addons/Groups/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Addons.Groups.dll.mdb
+/home/pi/opensim/bin/OpenSim.Addons.Groups.dll
+/home/pi/opensim/OpenSim/Addons/Groups/obj/Debug/OpenSim.Addons.Groups.dll
+/home/pi/opensim/OpenSim/Addons/Groups/obj/Debug/OpenSim.Addons.Groups.dll.mdb

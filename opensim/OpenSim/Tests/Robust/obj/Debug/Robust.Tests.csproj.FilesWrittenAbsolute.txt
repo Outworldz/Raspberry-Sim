@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Tests/Robust/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/Robust.Tests.dll.mdb
+/home/pi/opensim/bin/Robust.Tests.dll
+/home/pi/opensim/OpenSim/Tests/Robust/obj/Debug/Robust.Tests.dll
+/home/pi/opensim/OpenSim/Tests/Robust/obj/Debug/Robust.Tests.dll.mdb

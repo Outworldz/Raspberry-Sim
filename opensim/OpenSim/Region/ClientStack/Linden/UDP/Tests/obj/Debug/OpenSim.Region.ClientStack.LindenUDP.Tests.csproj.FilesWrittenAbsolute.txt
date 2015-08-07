@@ -1,0 +1,6 @@
+/home/pi/opensim/OpenSim/Region/ClientStack/Linden/UDP/Tests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/OpenSim/Region/ClientStack/Linden/UDP/Tests/obj/Debug/OpenSim.Region.ClientStack.LindenUDP.Tests.Resources.4-tile2.jp2
+/home/pi/opensim/bin/OpenSim.Region.ClientStack.LindenUDP.Tests.dll.mdb
+/home/pi/opensim/bin/OpenSim.Region.ClientStack.LindenUDP.Tests.dll
+/home/pi/opensim/OpenSim/Region/ClientStack/Linden/UDP/Tests/obj/Debug/OpenSim.Region.ClientStack.LindenUDP.Tests.dll
+/home/pi/opensim/OpenSim/Region/ClientStack/Linden/UDP/Tests/obj/Debug/OpenSim.Region.ClientStack.LindenUDP.Tests.dll.mdb

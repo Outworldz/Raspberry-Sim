@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Framework/Console/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Framework.Console.dll.mdb
+/home/pi/opensim/bin/OpenSim.Framework.Console.dll
+/home/pi/opensim/OpenSim/Framework/Console/obj/Debug/OpenSim.Framework.Console.dll
+/home/pi/opensim/OpenSim/Framework/Console/obj/Debug/OpenSim.Framework.Console.dll.mdb

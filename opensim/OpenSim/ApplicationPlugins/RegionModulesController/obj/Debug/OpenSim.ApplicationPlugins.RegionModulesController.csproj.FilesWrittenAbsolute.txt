@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/ApplicationPlugins/RegionModulesController/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.ApplicationPlugins.RegionModulesController.dll.mdb
+/home/pi/opensim/bin/OpenSim.ApplicationPlugins.RegionModulesController.dll
+/home/pi/opensim/OpenSim/ApplicationPlugins/RegionModulesController/obj/Debug/OpenSim.ApplicationPlugins.RegionModulesController.dll
+/home/pi/opensim/OpenSim/ApplicationPlugins/RegionModulesController/obj/Debug/OpenSim.ApplicationPlugins.RegionModulesController.dll.mdb

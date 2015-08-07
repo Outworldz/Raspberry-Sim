@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Services/Connectors/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Services.Connectors.dll.mdb
+/home/pi/opensim/bin/OpenSim.Services.Connectors.dll
+/home/pi/opensim/OpenSim/Services/Connectors/obj/Debug/OpenSim.Services.Connectors.dll
+/home/pi/opensim/OpenSim/Services/Connectors/obj/Debug/OpenSim.Services.Connectors.dll.mdb

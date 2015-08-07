@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/Physics/BulletSPlugin/Tests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Region.Physics.BulletSPlugin.Tests.dll.mdb
+/home/pi/opensim/bin/OpenSim.Region.Physics.BulletSPlugin.Tests.dll
+/home/pi/opensim/OpenSim/Region/Physics/BulletSPlugin/Tests/obj/Debug/OpenSim.Region.Physics.BulletSPlugin.Tests.dll
+/home/pi/opensim/OpenSim/Region/Physics/BulletSPlugin/Tests/obj/Debug/OpenSim.Region.Physics.BulletSPlugin.Tests.dll.mdb

@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Tools/Compiler/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Tools.lslc.exe.mdb
+/home/pi/opensim/bin/OpenSim.Tools.lslc.exe
+/home/pi/opensim/OpenSim/Tools/Compiler/obj/Debug/OpenSim.Tools.lslc.exe
+/home/pi/opensim/OpenSim/Tools/Compiler/obj/Debug/OpenSim.Tools.lslc.exe.mdb

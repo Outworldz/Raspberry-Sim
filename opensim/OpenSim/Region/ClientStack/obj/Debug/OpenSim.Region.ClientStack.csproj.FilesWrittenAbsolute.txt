@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/ClientStack/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Region.ClientStack.dll.mdb
+/home/pi/opensim/bin/OpenSim.Region.ClientStack.dll
+/home/pi/opensim/OpenSim/Region/ClientStack/obj/Debug/OpenSim.Region.ClientStack.dll
+/home/pi/opensim/OpenSim/Region/ClientStack/obj/Debug/OpenSim.Region.ClientStack.dll.mdb

@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/DataSnapshot/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Region.DataSnapshot.dll.mdb
+/home/pi/opensim/bin/OpenSim.Region.DataSnapshot.dll
+/home/pi/opensim/OpenSim/Region/DataSnapshot/obj/Debug/OpenSim.Region.DataSnapshot.dll
+/home/pi/opensim/OpenSim/Region/DataSnapshot/obj/Debug/OpenSim.Region.DataSnapshot.dll.mdb

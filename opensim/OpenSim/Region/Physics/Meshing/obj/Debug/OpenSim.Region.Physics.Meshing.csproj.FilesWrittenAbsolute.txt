@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/Physics/Meshing/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/Physics/OpenSim.Region.Physics.Meshing.dll.mdb
+/home/pi/opensim/bin/Physics/OpenSim.Region.Physics.Meshing.dll
+/home/pi/opensim/OpenSim/Region/Physics/Meshing/obj/Debug/OpenSim.Region.Physics.Meshing.dll
+/home/pi/opensim/OpenSim/Region/Physics/Meshing/obj/Debug/OpenSim.Region.Physics.Meshing.dll.mdb

@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Services/InventoryService/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Services.InventoryService.dll.mdb
+/home/pi/opensim/bin/OpenSim.Services.InventoryService.dll
+/home/pi/opensim/OpenSim/Services/InventoryService/obj/Debug/OpenSim.Services.InventoryService.dll
+/home/pi/opensim/OpenSim/Services/InventoryService/obj/Debug/OpenSim.Services.InventoryService.dll.mdb

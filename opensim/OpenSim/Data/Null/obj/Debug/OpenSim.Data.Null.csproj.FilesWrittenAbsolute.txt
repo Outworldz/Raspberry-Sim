@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Data/Null/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Data.Null.dll.mdb
+/home/pi/opensim/bin/OpenSim.Data.Null.dll
+/home/pi/opensim/OpenSim/Data/Null/obj/Debug/OpenSim.Data.Null.dll
+/home/pi/opensim/OpenSim/Data/Null/obj/Debug/OpenSim.Data.Null.dll.mdb

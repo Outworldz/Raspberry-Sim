@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/RegionCombinerModule/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Region.RegionCombinerModule.dll.mdb
+/home/pi/opensim/bin/OpenSim.Region.RegionCombinerModule.dll
+/home/pi/opensim/OpenSim/Region/RegionCombinerModule/obj/Debug/OpenSim.Region.RegionCombinerModule.dll
+/home/pi/opensim/OpenSim/Region/RegionCombinerModule/obj/Debug/OpenSim.Region.RegionCombinerModule.dll.mdb

@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/ApplicationPlugins/RemoteController/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.ApplicationPlugins.RemoteController.dll.mdb
+/home/pi/opensim/bin/OpenSim.ApplicationPlugins.RemoteController.dll
+/home/pi/opensim/OpenSim/ApplicationPlugins/RemoteController/obj/Debug/OpenSim.ApplicationPlugins.RemoteController.dll
+/home/pi/opensim/OpenSim/ApplicationPlugins/RemoteController/obj/Debug/OpenSim.ApplicationPlugins.RemoteController.dll.mdb

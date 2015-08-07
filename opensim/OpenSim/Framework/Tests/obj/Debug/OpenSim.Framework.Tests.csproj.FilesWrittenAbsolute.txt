@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Framework/Tests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Framework.Tests.dll.mdb
+/home/pi/opensim/bin/OpenSim.Framework.Tests.dll
+/home/pi/opensim/OpenSim/Framework/Tests/obj/Debug/OpenSim.Framework.Tests.dll
+/home/pi/opensim/OpenSim/Framework/Tests/obj/Debug/OpenSim.Framework.Tests.dll.mdb

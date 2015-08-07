@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/CoreModules/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Region.CoreModules.dll.mdb
+/home/pi/opensim/bin/OpenSim.Region.CoreModules.dll
+/home/pi/opensim/OpenSim/Region/CoreModules/obj/Debug/OpenSim.Region.CoreModules.dll
+/home/pi/opensim/OpenSim/Region/CoreModules/obj/Debug/OpenSim.Region.CoreModules.dll.mdb

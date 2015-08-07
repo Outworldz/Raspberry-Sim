@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/Physics/ConvexDecompositionDotNet/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Region.Physics.ConvexDecompositionDotNet.dll.mdb
+/home/pi/opensim/bin/OpenSim.Region.Physics.ConvexDecompositionDotNet.dll
+/home/pi/opensim/OpenSim/Region/Physics/ConvexDecompositionDotNet/obj/Debug/OpenSim.Region.Physics.ConvexDecompositionDotNet.dll
+/home/pi/opensim/OpenSim/Region/Physics/ConvexDecompositionDotNet/obj/Debug/OpenSim.Region.Physics.ConvexDecompositionDotNet.dll.mdb

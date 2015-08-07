@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/UserStatistics/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Region.UserStatistics.dll.mdb
+/home/pi/opensim/bin/OpenSim.Region.UserStatistics.dll
+/home/pi/opensim/OpenSim/Region/UserStatistics/obj/Debug/OpenSim.Region.UserStatistics.dll
+/home/pi/opensim/OpenSim/Region/UserStatistics/obj/Debug/OpenSim.Region.UserStatistics.dll.mdb

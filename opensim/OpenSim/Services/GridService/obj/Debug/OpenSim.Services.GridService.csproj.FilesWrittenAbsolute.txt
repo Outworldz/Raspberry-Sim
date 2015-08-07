@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Services/GridService/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Services.GridService.dll.mdb
+/home/pi/opensim/bin/OpenSim.Services.GridService.dll
+/home/pi/opensim/OpenSim/Services/GridService/obj/Debug/OpenSim.Services.GridService.dll
+/home/pi/opensim/OpenSim/Services/GridService/obj/Debug/OpenSim.Services.GridService.dll.mdb

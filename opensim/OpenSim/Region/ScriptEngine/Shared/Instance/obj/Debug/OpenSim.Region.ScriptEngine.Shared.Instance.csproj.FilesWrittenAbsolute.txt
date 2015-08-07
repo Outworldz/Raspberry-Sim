@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/ScriptEngine/Shared/Instance/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Region.ScriptEngine.Shared.Instance.dll.mdb
+/home/pi/opensim/bin/OpenSim.Region.ScriptEngine.Shared.Instance.dll
+/home/pi/opensim/OpenSim/Region/ScriptEngine/Shared/Instance/obj/Debug/OpenSim.Region.ScriptEngine.Shared.Instance.dll
+/home/pi/opensim/OpenSim/Region/ScriptEngine/Shared/Instance/obj/Debug/OpenSim.Region.ScriptEngine.Shared.Instance.dll.mdb

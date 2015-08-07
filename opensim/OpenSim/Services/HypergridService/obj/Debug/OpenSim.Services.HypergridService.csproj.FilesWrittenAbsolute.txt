@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Services/HypergridService/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Services.HypergridService.dll.mdb
+/home/pi/opensim/bin/OpenSim.Services.HypergridService.dll
+/home/pi/opensim/OpenSim/Services/HypergridService/obj/Debug/OpenSim.Services.HypergridService.dll
+/home/pi/opensim/OpenSim/Services/HypergridService/obj/Debug/OpenSim.Services.HypergridService.dll.mdb

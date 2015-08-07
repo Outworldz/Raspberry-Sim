@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Tools/Configger/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Tools.Configger.exe.mdb
+/home/pi/opensim/bin/OpenSim.Tools.Configger.exe
+/home/pi/opensim/OpenSim/Tools/Configger/obj/Debug/OpenSim.Tools.Configger.exe
+/home/pi/opensim/OpenSim/Tools/Configger/obj/Debug/OpenSim.Tools.Configger.exe.mdb

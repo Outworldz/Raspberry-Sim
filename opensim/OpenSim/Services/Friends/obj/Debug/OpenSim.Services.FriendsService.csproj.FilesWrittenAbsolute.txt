@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Services/Friends/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Services.FriendsService.dll.mdb
+/home/pi/opensim/bin/OpenSim.Services.FriendsService.dll
+/home/pi/opensim/OpenSim/Services/Friends/obj/Debug/OpenSim.Services.FriendsService.dll
+/home/pi/opensim/OpenSim/Services/Friends/obj/Debug/OpenSim.Services.FriendsService.dll.mdb

@@ -1,0 +1,3 @@
+<Addins host-reference="/home/pi/opensim/bin/OpenSim.exe">
+  <Directory shared="false">/home/pi/opensim/bin</Directory>
+</Addins>

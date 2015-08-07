@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/Physics/POSPlugin/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/Physics/OpenSim.Region.Physics.POSPlugin.dll.mdb
+/home/pi/opensim/bin/Physics/OpenSim.Region.Physics.POSPlugin.dll
+/home/pi/opensim/OpenSim/Region/Physics/POSPlugin/obj/Debug/OpenSim.Region.Physics.POSPlugin.dll
+/home/pi/opensim/OpenSim/Region/Physics/POSPlugin/obj/Debug/OpenSim.Region.Physics.POSPlugin.dll.mdb

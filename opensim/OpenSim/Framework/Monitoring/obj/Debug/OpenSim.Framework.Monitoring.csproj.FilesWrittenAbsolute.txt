@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Framework/Monitoring/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Framework.Monitoring.dll.mdb
+/home/pi/opensim/bin/OpenSim.Framework.Monitoring.dll
+/home/pi/opensim/OpenSim/Framework/Monitoring/obj/Debug/OpenSim.Framework.Monitoring.dll
+/home/pi/opensim/OpenSim/Framework/Monitoring/obj/Debug/OpenSim.Framework.Monitoring.dll.mdb

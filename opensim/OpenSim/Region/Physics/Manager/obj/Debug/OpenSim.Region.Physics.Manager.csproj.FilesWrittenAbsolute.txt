@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/Physics/Manager/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Region.Physics.Manager.dll.mdb
+/home/pi/opensim/bin/OpenSim.Region.Physics.Manager.dll
+/home/pi/opensim/OpenSim/Region/Physics/Manager/obj/Debug/OpenSim.Region.Physics.Manager.dll
+/home/pi/opensim/OpenSim/Region/Physics/Manager/obj/Debug/OpenSim.Region.Physics.Manager.dll.mdb

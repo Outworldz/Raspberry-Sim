@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Tools/pCampBot/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/pCampBot.exe.mdb
+/home/pi/opensim/bin/pCampBot.exe
+/home/pi/opensim/OpenSim/Tools/pCampBot/obj/Debug/pCampBot.exe
+/home/pi/opensim/OpenSim/Tools/pCampBot/obj/Debug/pCampBot.exe.mdb

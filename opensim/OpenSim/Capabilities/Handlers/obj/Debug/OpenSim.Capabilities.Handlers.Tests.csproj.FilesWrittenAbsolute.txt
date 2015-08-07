@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Capabilities/Handlers/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Capabilities.Handlers.Tests.dll.mdb
+/home/pi/opensim/bin/OpenSim.Capabilities.Handlers.Tests.dll
+/home/pi/opensim/OpenSim/Capabilities/Handlers/obj/Debug/OpenSim.Capabilities.Handlers.Tests.dll
+/home/pi/opensim/OpenSim/Capabilities/Handlers/obj/Debug/OpenSim.Capabilities.Handlers.Tests.dll.mdb

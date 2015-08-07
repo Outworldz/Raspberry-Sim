@@ -1,0 +1,6 @@
+/home/pi/opensim/OpenSim/Data/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/OpenSim/Data/obj/Debug/OpenSim.Data.Resources.OpenSim.Data.addin.xml
+/home/pi/opensim/bin/OpenSim.Data.dll.mdb
+/home/pi/opensim/bin/OpenSim.Data.dll
+/home/pi/opensim/OpenSim/Data/obj/Debug/OpenSim.Data.dll
+/home/pi/opensim/OpenSim/Data/obj/Debug/OpenSim.Data.dll.mdb

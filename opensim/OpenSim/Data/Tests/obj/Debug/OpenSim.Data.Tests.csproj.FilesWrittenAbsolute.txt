@@ -1,0 +1,6 @@
+/home/pi/opensim/OpenSim/Data/Tests/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/OpenSim/Data/Tests/obj/Debug/OpenSim.Data.Tests.Resources.TestDataConnections.ini
+/home/pi/opensim/bin/OpenSim.Data.Tests.dll.mdb
+/home/pi/opensim/bin/OpenSim.Data.Tests.dll
+/home/pi/opensim/OpenSim/Data/Tests/obj/Debug/OpenSim.Data.Tests.dll
+/home/pi/opensim/OpenSim/Data/Tests/obj/Debug/OpenSim.Data.Tests.dll.mdb

@@ -1,0 +1,5 @@
+/home/pi/opensim/ThirdParty/SmartThreadPool/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/SmartThreadPool.dll.mdb
+/home/pi/opensim/bin/SmartThreadPool.dll
+/home/pi/opensim/ThirdParty/SmartThreadPool/obj/Debug/SmartThreadPool.dll
+/home/pi/opensim/ThirdParty/SmartThreadPool/obj/Debug/SmartThreadPool.dll.mdb

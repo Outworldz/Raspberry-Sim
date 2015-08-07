@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/ConsoleClient/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.ConsoleClient.exe.mdb
+/home/pi/opensim/bin/OpenSim.ConsoleClient.exe
+/home/pi/opensim/OpenSim/ConsoleClient/obj/Debug/OpenSim.ConsoleClient.exe
+/home/pi/opensim/OpenSim/ConsoleClient/obj/Debug/OpenSim.ConsoleClient.exe.mdb

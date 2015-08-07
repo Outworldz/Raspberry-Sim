@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Services/FreeswitchService/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Services.FreeswitchService.dll.mdb
+/home/pi/opensim/bin/OpenSim.Services.FreeswitchService.dll
+/home/pi/opensim/OpenSim/Services/FreeswitchService/obj/Debug/OpenSim.Services.FreeswitchService.dll
+/home/pi/opensim/OpenSim/Services/FreeswitchService/obj/Debug/OpenSim.Services.FreeswitchService.dll.mdb

@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Services/AuthorizationService/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Services.AuthorizationService.dll.mdb
+/home/pi/opensim/bin/OpenSim.Services.AuthorizationService.dll
+/home/pi/opensim/OpenSim/Services/AuthorizationService/obj/Debug/OpenSim.Services.AuthorizationService.dll
+/home/pi/opensim/OpenSim/Services/AuthorizationService/obj/Debug/OpenSim.Services.AuthorizationService.dll.mdb

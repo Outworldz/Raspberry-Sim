@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/ScriptEngine/XEngine/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Region.ScriptEngine.XEngine.dll.mdb
+/home/pi/opensim/bin/OpenSim.Region.ScriptEngine.XEngine.dll
+/home/pi/opensim/OpenSim/Region/ScriptEngine/XEngine/obj/Debug/OpenSim.Region.ScriptEngine.XEngine.dll
+/home/pi/opensim/OpenSim/Region/ScriptEngine/XEngine/obj/Debug/OpenSim.Region.ScriptEngine.XEngine.dll.mdb

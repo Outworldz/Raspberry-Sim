@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/Application/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.exe.mdb
+/home/pi/opensim/bin/OpenSim.exe
+/home/pi/opensim/OpenSim/Region/Application/obj/Debug/OpenSim.exe
+/home/pi/opensim/OpenSim/Region/Application/obj/Debug/OpenSim.exe.mdb

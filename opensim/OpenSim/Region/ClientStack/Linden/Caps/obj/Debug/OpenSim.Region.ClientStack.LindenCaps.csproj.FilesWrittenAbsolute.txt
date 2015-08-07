@@ -1,0 +1,5 @@
+/home/pi/opensim/OpenSim/Region/ClientStack/Linden/Caps/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/pi/opensim/bin/OpenSim.Region.ClientStack.LindenCaps.dll.mdb
+/home/pi/opensim/bin/OpenSim.Region.ClientStack.LindenCaps.dll
+/home/pi/opensim/OpenSim/Region/ClientStack/Linden/Caps/obj/Debug/OpenSim.Region.ClientStack.LindenCaps.dll
+/home/pi/opensim/OpenSim/Region/ClientStack/Linden/Caps/obj/Debug/OpenSim.Region.ClientStack.LindenCaps.dll.mdb
