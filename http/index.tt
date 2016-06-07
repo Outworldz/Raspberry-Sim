@@ -1,0 +1,17 @@
+﻿<html>
+<head>
+    <title>[% Title %]</title>
+</head>
+<body>
+
+[% HTML %]
+
+<ul>
+<li>Step 1: <a href="http://www.osgrid.org/index.php/auth/register">Create</a> an account at OsGrid.</li>
+<li>Step 2: <a href="config">Setup</a> your system.</li>
+<li>Step 3: <a href="config">Start</a> your system.</li>
+<li>Step 4: Get a <a href="http://www.osgrid.org/index.php/viewerconnect">viewer</a> and log in!</li>
+</ul>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>Setup</title>
+</head>
+<body>
+
+<form action = "/save">
+<table>
+    <tr><td>Region Name:</td><td><input type="text" size="36" name="RegionName" value="[% RegionName %]"></td><td>This is the name of your home. If you need help, try <a href="http://fantasynamegenerators.com">Fantasy Name Generator</a></td></tr>
+    <tr><td>UUID:</td><td><input type="text" size="36" name="UUID" value="[% UUID %]"></td><td>This is an automatically generated unique number for your grid.</td></tr>
+    <tr><td>Location:</td><td>X:<input type="text" size="5" name="LocX" value="[% LocX %]"> Y:<input type="text" size="5" name="LocY" value="[% LocY %]"></td><td>You can pick location for your world at the <a href="http://www.osgrid.org/index.php/gridmap">OsGrid map</a>.  Find a blank spot, and enter the two numbers here</a></td></tr>
+    <tr><td>Port:</td><td><input type="text" size="5" name="PORT" value="[% PORT %]"></td><td>The default is 9000. This port must be opened in your firewall if you want people to visit your sim. </td></tr>
+    <tr><td>Public IP:</td><td><input type="text" size="15" name="SYSTEMIP" value="[% SYSTEMIP %]"></td><td>This is the public-facing IP address of your computer. If you have a registered domain name, enter it here.</td></tr>
+    <tr><td></td><td><input type="submit" name="Save"></td></tr>
+    </table>
+</form>
+
+</body>
+</html>
